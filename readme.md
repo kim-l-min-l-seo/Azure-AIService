@@ -26,5 +26,5 @@
 ## install library
 ```shell
 pip install azure-ai-textanalytics==5.3.0
-pip install pip install azure-identity
+pip install azure-identity
 ```
